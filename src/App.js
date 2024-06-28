@@ -25,7 +25,7 @@ function App() {
       </Center>
       <Center>
         <Flex direction={"column"} alignItems="center" gap={"10"}>
-          <Heading size={"md"} color={useColorModeValue("black", "white")}>My Github Stats</Heading>
+          {/* <Heading size={"md"} color={useColorModeValue("black", "white")}>My Github Stats</Heading> */}
           <GitStats />
         </Flex>
       </Center>

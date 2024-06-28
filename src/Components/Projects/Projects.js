@@ -103,7 +103,7 @@ function Projects(){
               justifyContent={"space-between"}
               alignItems={"center"}
             >
-              <Button
+              {/* <Button
                 fontSize={"sm"}
                 rounded={"full"}
                 _
@@ -118,7 +118,7 @@ function Projects(){
                 }}
               >
                 {<BsFillCameraVideoFill size="28px" />}
-              </Button>
+              </Button> */}
               <Button
                 fontSize={"sm"}
                 rounded={"full"}
@@ -206,7 +206,7 @@ function Projects(){
               justifyContent={"space-between"}
               alignItems={"center"}
             >
-              <Button
+              {/* <Button
                 fontSize={"sm"}
                 rounded={"full"}
                
@@ -225,7 +225,7 @@ function Projects(){
                 }}
               >
                 {<BsFillCameraVideoFill size="28px" />}
-              </Button>
+              </Button> */}
               <Button
                 fontSize={"sm"}
                 rounded={"full"}
@@ -279,7 +279,8 @@ function Projects(){
           >
             <Image
               borderRadius={"md"}
-              src={"https://cdn-fkbpo.nitrocdn.com/QyYsbFxqOyiWDaKIXSljQVAgnjpwOGDP/assets/static/optimized/rev-cf9d909/wp-content/uploads/2022/06/Travelocity-1024x592.jpg"}
+              // src={"https://cdn-fkbpo.nitrocdn.com/QyYsbFxqOyiWDaKIXSljQVAgnjpwOGDP/assets/static/optimized/rev-cf9d909/wp-content/uploads/2022/06/Travelocity-1024x592.jpg"}
+              src={"https://user-images.githubusercontent.com/103721591/208459625-b0cbd9c0-d309-4ba5-9009-08cfb1cffd1f.png"}
               w={"100%"}
             />
             <Box p={["2","2","4"]}>
@@ -312,7 +313,7 @@ function Projects(){
               justifyContent={"space-between"}
               alignItems={"center"}
             >
-              <Button
+              {/* <Button
                 fontSize={"sm"}
                 rounded={"full"}
                 _
@@ -330,7 +331,7 @@ function Projects(){
                 }}
               >
                 {<BsFillCameraVideoFill size="28px" />}
-              </Button>
+              </Button> */}
               <Button
                 fontSize={"sm"}
                 rounded={"full"}
@@ -416,7 +417,7 @@ function Projects(){
               justifyContent={"space-between"}
               alignItems={"center"}
             >
-              <Button
+              {/* <Button
                 fontSize={"sm"}
                 rounded={"full"}
                 _
@@ -434,7 +435,7 @@ function Projects(){
                 }}
               >
                 {<BsFillCameraVideoFill size="28px" />}
-              </Button>
+              </Button> */}
               <Button
                 fontSize={"sm"}
                 rounded={"full"}
@@ -520,7 +521,7 @@ function Projects(){
               justifyContent={"space-between"}
               alignItems={"center"}
             >
-              <Button
+              {/* <Button
                 fontSize={"sm"}
                 rounded={"full"}
                 _
@@ -538,7 +539,7 @@ function Projects(){
                 }}
               >
                 {<BsFillCameraVideoFill size="28px" />}
-              </Button>
+              </Button> */}
               <Button
                 fontSize={"sm"}
                 rounded={"full"}
